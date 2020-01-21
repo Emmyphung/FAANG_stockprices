@@ -13,3 +13,5 @@ Some findings:
 3. Facebook and Netflix stocks have the highest prices throughout both election periods.
 4. Several tech stocks rocketed after Trump's elecion in 2017.
 5. Facebook's stock price has always been increasing since its IPO. It will continue to rise in the next few years.
+
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/FB_stock.png"/></center>
